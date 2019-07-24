@@ -1,0 +1,17 @@
+body{
+	background-image:  url("../images/map2.jpg");
+	text-align: center;
+}
+
+.text-muted{
+    color:green;
+  
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
+
+
